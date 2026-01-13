@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="" label="Cafe Menu" language="en" table="x_528135_kool_cafe_cafe_menu">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element/>
+            <help/>
+            <hint/>
+            <label>Cafe Menu</label>
+            <language>en</language>
+            <name>x_528135_kool_cafe_cafe_menu</name>
+            <plural>Cafe Menus</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-01-13 18:30:41</sys_created_on>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Cafe Menu</sys_name>
+            <sys_package display_value="Kool Cafe" source="x_528135_kool_cafe">fdbced23c3963210346cdf3d050131f1</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Kool Cafe">fdbced23c3963210346cdf3d050131f1</sys_scope>
+            <sys_update_name>sys_documentation_x_528135_kool_cafe_cafe_menu__en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-01-13 18:30:41</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
