@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>1000</order>
+        <role display_value="x_528135_kool_cafe.user" name="x_528135_kool_cafe.user">39bc2163c3963210346cdf3d0501310f</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-01-13 18:16:08</sys_created_on>
+        <sys_id>bdbc2163c3963210346cdf3d05013117</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>39bc2163c3963210346cdf3d0501310f</sys_name>
+        <sys_package display_value="Kool Cafe" source="x_528135_kool_cafe">fdbced23c3963210346cdf3d050131f1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Kool Cafe">fdbced23c3963210346cdf3d050131f1</sys_scope>
+        <sys_update_name>sys_embedded_help_role_bdbc2163c3963210346cdf3d05013117</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-01-13 18:16:08</sys_updated_on>
+    </sys_embedded_help_role>
+</record_update>

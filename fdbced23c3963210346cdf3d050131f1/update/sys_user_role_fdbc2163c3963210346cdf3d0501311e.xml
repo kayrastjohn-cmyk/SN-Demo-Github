@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_user_role">
+    <sys_user_role action="INSERT_OR_UPDATE">
+        <assignable_by/>
+        <can_delegate>true</can_delegate>
+        <description>Default admin role</description>
+        <elevated_privilege>false</elevated_privilege>
+        <federated_id>wtdGClTqc9ZGxGI4W3kiTa5wc/HpFXyXRdtxh+I3fN0=</federated_id>
+        <grantable>true</grantable>
+        <includes_roles/>
+        <name>x_528135_kool_cafe.admin</name>
+        <scoped_admin>false</scoped_admin>
+        <suffix>admin</suffix>
+        <sys_class_name>sys_user_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-01-13 18:16:08</sys_created_on>
+        <sys_id>fdbc2163c3963210346cdf3d0501311e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_528135_kool_cafe.admin</sys_name>
+        <sys_package display_value="Kool Cafe" source="x_528135_kool_cafe">fdbced23c3963210346cdf3d050131f1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Kool Cafe">fdbced23c3963210346cdf3d050131f1</sys_scope>
+        <sys_update_name>sys_user_role_fdbc2163c3963210346cdf3d0501311e</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-01-13 18:16:08</sys_updated_on>
+    </sys_user_role>
+</record_update>
