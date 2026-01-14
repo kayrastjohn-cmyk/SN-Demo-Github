@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-01-14 20:25:09</sys_created_on>
+        <sys_id>25d39fbfc312f210346cdf3d05013192</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_528135_kool_cafe_customer_order.x_528135_kool_cafe.admin</sys_name>
+        <sys_package display_value="Kool Cafe" source="x_528135_kool_cafe">fdbced23c3963210346cdf3d050131f1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Kool Cafe">fdbced23c3963210346cdf3d050131f1</sys_scope>
+        <sys_security_acl display_value="x_528135_kool_cafe_customer_order">e9d39fbfc312f210346cdf3d05013180</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_25d39fbfc312f210346cdf3d05013192</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-01-14 20:25:09</sys_updated_on>
+        <sys_user_role display_value="x_528135_kool_cafe.admin" name="x_528135_kool_cafe.admin">fdbc2163c3963210346cdf3d0501311e</sys_user_role>
+    </sys_security_acl_role>
+</record_update>
